@@ -1,0 +1,16 @@
+{
+  "name": "resume-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": "https://github.com/kolaczyn/resume-generator",
+  "author": "Paweł Kołaczyński <Pawel.Kolaczynski@rossmann.com.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "copy-webpack-plugin": "^10.2.4",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
